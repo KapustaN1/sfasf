@@ -430,3 +430,9 @@ img:not([src]){
 		padding:0 10px
 	}
 }
+.footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+}
